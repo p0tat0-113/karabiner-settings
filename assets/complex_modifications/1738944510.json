@@ -1,0 +1,1 @@
+{"title":"","rules":[{"description":"f2 to app_expose","manipulators":[{"type":"basic","from":{"key_code":"f2"},"to":[{"repeat":true,"modifiers":["left_control"],"key_code":"down_arrow"}]}]}]}

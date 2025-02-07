@@ -4,22 +4,6 @@
             "complex_modifications": {
                 "rules": [
                     {
-                        "description": "f2 to app_expose",
-                        "manipulators": [
-                            {
-                                "from": { "key_code": "f2" },
-                                "to": [
-                                    {
-                                        "key_code": "down_arrow",
-                                        "modifiers": ["left_control"],
-                                        "repeat": true
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
                         "description": "Change Won (₩) to grave accent (`) in Korean layout.",
                         "manipulators": [
                             {
